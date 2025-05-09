@@ -1,4 +1,4 @@
-# DjangoCaching
+# DjangoLogging
 
 This project demonstrates the use of logging in Django.
 
@@ -10,8 +10,8 @@ This project demonstrates the use of logging in Django.
 
 1. Clone repository
 ```bash
-git clone https://github.com/MonkeysTower/DjangoCashing.git
-cd DjangoCashing
+git clone https://github.com/MonkeysTower/DjangoLogging.git
+cd DjangoLogging
 
 ```
 
